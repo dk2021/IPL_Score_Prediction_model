@@ -23,5 +23,6 @@ Step to Build Machine Learning Model
                    3. Features should be in the form of rows and columns
                    4. Features should be on the same scale
                    5. Features should be numeric
-     3. We can predict on a new dataset only containing the features        
+     3. We can predict on a new dataset only containing the features 
+     4.        
 
